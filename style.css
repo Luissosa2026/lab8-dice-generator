@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    color: black;
+}
+
+main {
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px;
+    max-width: 500px;
+}
+
+h1 {
+    color: navy;
+}
+
+input {
+    width: 60px;
+    padding: 5px;
+}
+
+button {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    margin-top: 15px;
+    border: 1px solid black;
+}
